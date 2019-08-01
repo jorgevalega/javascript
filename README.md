@@ -1,2 +1,2 @@
 # javascript
-Exercícios que ru fiz 
+Exercícios que eu fiz enquanto estava aprendendo a linguagem de programação.
