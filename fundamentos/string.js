@@ -14,6 +14,8 @@ console.log(marcaCarro.substring(0, 3)) // não inclui o íncide 3
 
 console.log('Marca carro: '.concat(marcaCarro).concat('!')) // função de concatenar
 console.log('A marca do carro é: '.concat(marcaCarro))
+console.log('A marca do carro é: '+ marcaCarro) // o resultado é igual que o anterior
+
 
 console.log(marcaCarro.replace('a', 4))
 console.log(marcaCarro.replace('o', 0))
