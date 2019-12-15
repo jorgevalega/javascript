@@ -20,4 +20,4 @@ const pessoa = {
     falar: function () {
         console.log('Opa')
     }
-} 
+}
